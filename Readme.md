@@ -10,9 +10,11 @@ The backend is stuff that feeds the website that a user will never see. This cou
 
 ## Displaying HTML
 HTML files end with the extension “.html”. Typically, when you name a file “index.html,” you tell the server that this file is what you want to spin up as your home page. This could be adjusted in some settings, but in this series we will be using the default settings. By assigning a page to the “homepage” you can access the file by going straight to the “domain”. In the video we spin up a server using the Live Server extension. 127.0.0.1 is the domain that gets served by Live Server. 127.0.0.1 is also well known as your local server. You can access your homepage by going directly to 127.0.0.1:5500 or by adding the file name. 127.0.0.1:5500/index.html
+![URL demo](https://github.com/Carranco-Codes/HTML-Basics/assets/10298176/22fd4fa7-03c9-4a7c-8356-e4654f076695)
 
 ## HTML Elements
 HTML elements contain three different parts: Opening Tag, Closing Tag, and Content. An element is everything from the opening tag to then end of the closing tag.
+![element-diagram](https://github.com/Carranco-Codes/HTML-Basics/assets/10298176/48bbc3de-ff0f-4078-b117-b0b713826d05)
 
 #### Sample h1 element
 ```
