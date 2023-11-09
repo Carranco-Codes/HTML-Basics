@@ -1,4 +1,5 @@
 # HTML Basics | Essentials and Document Structure
+PDF Download - [HTML Basics - Essentials and document structure.pdf](https://github.com/Carranco-Codes/HTML-Basics/files/13313622/HTML.Basics.-.Essentials.and.document.structure.pdf)
 
 ## What is HTML and where is it used?
 HTML, or HyperText Markup Language, is at the core of every website. Whether you are looking at a website for a small business or an application for a large enterprise, if it’s on the internet, it contains HTML. HTML primarily focuses on the visual components of a website creating the user interface we interact with. It defines the structure and layout of web pages, including headings, paragraphs, images, links, and forms. But HTML is not just limited to websites. It is also used in email templates, online documentation, and other digital content.
