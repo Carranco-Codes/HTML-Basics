@@ -65,3 +65,23 @@ The body element contains all the contents of an HTML document that are visible 
 	<body></body>
 </html>
 ```
+
+# Terms
+| Term          	| Definition                                                                                                                              	  							|
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Front-end     	| The front end contains all the visual components of a website. Anything and everything you see on a website is "front-end development." 								|
+| Back-end      	| Back-end development means working on server-side software, which focuses on everything you can't see on a website.					  								|
+| homepage      	| The main web page of a website. This can be accessed by directly going to the domain or going to the index.html file 					  								|
+| 127.0.0.1     	| Most common URL for a local server 																									  								|
+| domain        	| A domain name is a friendly name that replaces the IP address in the url. For instance `localhost` can replace 127.0.0.1		       	  								|
+| Port Number   	| A way to identify a specific process to which an internet or other network message is to be forwarded when it arrives at a server.      								|
+| Element       	| HTML elements contain three different parts: Opening Tag, Closing Tag, and Content. An element is everything from the opening tag to then end of the closing tag.     |
+| Opening Tag   	| The opening tag is the initial tag, the opening tag has no slash. `<h1>` is an example of an opening tag.			                      								|
+| Closing Tag   	| The closing tag is the ending tag, the closing tag has a forward slash. </h1> is an example of a closing tag.                           								|
+| Self-closing tag 	| A self-closing tag has no content and therefore cannot have any children. Notice that the forward slash is at the end of the element. `<img src='img.jpg' />`         |
+| Attribute     	| Attributes provide more information about the element and are always placed in the opening tag. 												                        |
+| Nesting       	| Placing one element inside another element.																								                            |
+| <!doctype>    	| A declation that sends "information" to the browser about what document type to expect.                                  												|
+| <html></html> 	| This wraps all the components of an html document. Inside that element, you’ll need the `<head>` element and `<body>` element.   		                                |
+| <head></head> 	| The head contains all the metadata that is sent to the browser                                    																	|
+| <body></body> 	| The body element contains all the contents of an HTML document that are visible to a user.										                                    |
