@@ -6,7 +6,7 @@ The text on a website is probably the most essential part of any website, and it
 ## <title>Title Tag</title>
 The first text we are going over is the Title. We will talk more about the head element in the SEO portion of this series, but the Title element is the first part of the text on every HTML page.  Imagine the title similar to the chapter of a book. Chapter names are concise and informative.  The `<title>` tag goes in the `<head>` portion of the website, and because it is located in the head, this is metadata that gets sent to browsers. Though there  isn’t a limit to how many characters a title should contain, if you keep your title tag under 60 characters, it will appear correctly in most browsers.
 
-[add image]
+![indesign-59 characters](https://github.com/Carranco-Codes/HTML-Basics/assets/10298176/87817e56-8733-4a5b-9a13-14eae0d310bb)
 
 ## <p>Paragraph Tag</p>
 The most basic way to add text to a website is to use the paragraph tag(`<p>`). To use a paragraph tag wrap the `<p>` tag around the text you want to structure as a paragraph.
